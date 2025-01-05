@@ -15,7 +15,7 @@
 
 """Script allowing to replay a given trace file.
    Example usage:
-   python replay.py --trace_file=/tmp/dumps/shutdown_2025010501-165136974075.dump
+   python replay.py --trace_file=/tmp/dumps/shutdown_2025010502-165136974075.dump
 
 """
 
