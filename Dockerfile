@@ -1,3 +1,5 @@
+# Test 2. Fix und Konflikt in GIT
+
 # Hier wird ein Fix eingefügt 
 
 # XYZ
